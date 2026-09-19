@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "868a8448027b17ac0cd4f1ba",
+  "owner": "uccstkhy",
+  "repo": "page-cf87ec10785a203dbb4ee291",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cf87ec10785a203dbb4ee291",
+      "a": "YukiMo",
+      "b": "clash verge下载",
+      "entity": "YukiMo",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e697255634f0444985f3ec7684ace2d683ea356c7c3267d226563e9eed912c8a",
+      "content": {
+        "primary_entity": "YukiMo",
+        "keyword1": "YukiMo",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_DESCRIPTION": "，YukiMo 面向需要稳定海外连接的用户提供多档订阅方案。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 并支持 5 台设备，团队版每月 1000GB 可同时在线 20 台设备。按年付费更划算，基础版仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。根据设备数量和流量需求选择套餐，再按照客户端文档完成订阅导入即可开始使用。",
+          "AI_HERO_SUBTITLE": "YukiMo 多设备订阅与套餐选择",
+          "AI_HERO_INTRO": "YukiMo 提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台，满足个人、家庭及团队的不同连接需求。按年付费可享受更优惠的价格，用户可根据日常流量消耗与同时在线设备数选择合适的方案。",
+          "AI_VISUAL_TITLE": "YukiMo 订阅方案概览",
+          "AI_HIGHLIGHT_1": "三档流量按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付费更省费用",
+          "AI_FEATURES_TITLE": "YukiMo 订阅要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个角度快速匹配合适的 YukiMo 方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先确认常用设备数量再选。",
+          "AI_FEATURE_TITLE_2": "按流量选额度",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度使用，300GB 兼顾流媒体，1000GB 适合多人大流量场景。",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并参照其文档导入 YukiMo 订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点权益上逐级提升，对照用量与设备数量即可锁定合适方案。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，三步即可在设备上使用 YukiMo 订阅。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "备齐设备信息",
+          "AI_STEP_TEXT_2": "记下要连接的设备数量与系统类型，对照套餐支持的设备上限确认是否够用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照所选客户端的文档指引，将 YukiMo 订阅信息导入并启用连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_CLOSING_TEXT": "根据流量与设备数量选定 YukiMo 方案，按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "个人手机加电脑使用可选基础版 3 台设备；需要流媒体解锁与游戏专线可选旗舰版 5 台设备；团队协作或较多设备同时在线可选团队版 20 台设备。",
+          "AI_FAQ_QUESTION_2": "订阅支持哪些设备导入？",
+          "AI_FAQ_ANSWER_2": "常见手机、平板与桌面系统均有对应客户端，具体支持情况请参照各客户端文档，按说明导入订阅链接即可使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付一年费用，年付价格约为月付的十个月，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超出当前套餐上限时，可升级至更高一档套餐，或减少同时连接设备数量以符合套餐规定。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下个计费周期重置，或升级至更高流量档位的套餐，以满足后续使用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "420185ede9a46eb701cd642f52332d9d298505e505dff0beaae26fa1979add0a",
+    "sitemap.xml": "74bdb5a9ac23a1ed2c88d6abb3886a42b403b9448a86df583497cc7ebc7befd1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b55514d02289843f403f5428b8cf130df42db0ee67e45f8ec98bab79d17df06c"
+}
